@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44d29424-5d81-4dca-9f49-684730871fa3" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/views/big/big.vue" afterDir="false" />
-    </list>
+    <list default="true" id="44d29424-5d81-4dca-9f49-684730871fa3" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608123273337</updated>
-      <workItem from="1608123283198" duration="166000" />
+      <workItem from="1608123283198" duration="488000" />
     </task>
     <servers />
   </component>
